@@ -1,6 +1,7 @@
 from __future__ import absolute_import
-import pkg_resources
 from copy import copy
+import pkg_resources
+import logging
 
 from django.conf import settings
 
